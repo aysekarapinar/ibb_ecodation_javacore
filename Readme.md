@@ -2015,3 +2015,4 @@ Bu slogan, Java programlarının **bir kez yazıldığında farklı platformlard
 💡 **Mülakatta doğru cevap:**  
 ✅ **"Write Once, Run Anywhere"** söylemelisiniz.  
 ❌ **"Everywhere" derseniz teknik olarak yanlış olur.**
+
