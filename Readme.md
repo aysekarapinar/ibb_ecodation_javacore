@@ -36,5 +36,3 @@ Javada Her biten kelime ; ile bitirmek zorundayız.
 Java case sensitive bir dildir. (Küçük büyük harfe duyarlı yüksek seviyede bir dildir.)
 ```
 ---
-
-
