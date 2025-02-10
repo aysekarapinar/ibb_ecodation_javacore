@@ -1,0 +1,4 @@
+CTRL+/ : Single Comment
+Shift+CTRL+/: Multiple Comment
+CTRL+ALT+L : Beautify
+CTRL+D = Copy and Pass
