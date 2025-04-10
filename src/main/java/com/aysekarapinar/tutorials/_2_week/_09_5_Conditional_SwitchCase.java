@@ -1,4 +1,4 @@
-package com.aysekarapinar._2_week;
+package com.aysekarapinar.tutorials._2_week;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.aysekarapinar._1_week;
+package com.aysekarapinar.tutorials._1_week;
 
 public class _03_JavaPrimitiveTypes {
     public static void main(String[] args) {

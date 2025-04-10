@@ -1,4 +1,4 @@
-package com.aysekarapinar._2_week;
+package com.aysekarapinar.tutorials._2_week;
 
 //do while şart sağlansın ya da sağlanmasın 1 kere çalışır.
 public class _10_3_Loop_DoWhile {

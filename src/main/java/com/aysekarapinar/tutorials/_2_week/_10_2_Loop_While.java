@@ -1,4 +1,4 @@
-package com.aysekarapinar._2_week;
+package com.aysekarapinar.tutorials._2_week;
 
 public class _10_2_Loop_While {
     public static void main(String[] args) {

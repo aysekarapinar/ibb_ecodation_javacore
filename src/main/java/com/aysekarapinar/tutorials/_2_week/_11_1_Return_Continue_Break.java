@@ -1,4 +1,4 @@
-package com.aysekarapinar._2_week;
+package com.aysekarapinar.tutorials._2_week;
 /*
 Kullanıcının Verdiği pozitif bir sayıya kadar toplamını yapan hesaplayan Algoritma ?
 Şartlar - 1 : Kullanıcı eğer sayı olarak  100  fazla sayı girerse 100'e kadar toplasın. (break)

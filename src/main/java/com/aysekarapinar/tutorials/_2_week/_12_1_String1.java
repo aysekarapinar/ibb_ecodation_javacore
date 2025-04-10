@@ -1,4 +1,4 @@
-package com.aysekarapinar._2_week;
+package com.aysekarapinar.tutorials._2_week;
 
 public class _12_1_String1 {
     public static void main(String[] args) {
